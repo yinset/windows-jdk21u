@@ -1,5 +1,6 @@
 # windows-jdk21u-compile
-windows平台使用cygwin进行编译</br></br>
+windows平台编译jdk21u经验分享</br>
+使用cygwin进行编译</br></br>
 编译准备：</br>
 Cygwin安装时软件包添加：</br>
 autoconf</br>
